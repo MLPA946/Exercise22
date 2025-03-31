@@ -1,0 +1,23 @@
+body {
+  background-image: url('harden.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  justify-content: center; 
+}
+
+body {
+    color: white; 
+  }
+  
+  h1 {
+    color: yellow; 
+  }
+  
+  p {
+    color: white; 
+  }
+  
+  label {
+    color: cyan; 
+  }
+  
